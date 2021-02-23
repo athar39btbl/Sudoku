@@ -1,0 +1,37 @@
+﻿  main.cpp
+  DataManagement.cpp
+  BaseSudokuData.cpp
+  DetermineAnswerData.cpp
+C:\Users\Futa Sakamoto\source\repos\Sudoku\Sudoku\DetermineAnswerData.cpp(157,34): warning C4244: '引数': 'const double' から 'const _Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=UINT
+          ]
+C:\Users\Futa Sakamoto\source\repos\Sudoku\Sudoku\DetermineAnswerData.cpp(174,34): warning C4244: '引数': 'const double' から 'const _Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=UINT
+          ]
+C:\Users\Futa Sakamoto\source\repos\Sudoku\Sudoku\DetermineAnswerData.cpp(195,33): warning C4244: '引数': 'double' から 'const _Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=UINT
+          ]
+C:\Users\Futa Sakamoto\source\repos\Sudoku\Sudoku\DetermineAnswerData.cpp(235,34): warning C4244: '引数': 'const double' から 'const _Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=UINT
+          ]
+C:\Users\Futa Sakamoto\source\repos\Sudoku\Sudoku\DetermineAnswerData.cpp(257,34): warning C4244: '引数': 'const double' から 'const _Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=UINT
+          ]
+C:\Users\Futa Sakamoto\source\repos\Sudoku\Sudoku\DetermineAnswerData.cpp(283,33): warning C4244: '引数': 'double' から 'const _Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=UINT
+          ]
+  EmptyPositionData.cpp
+  コードを生成中...
+  Sudoku.vcxproj -> C:\Users\Futa Sakamoto\source\repos\Sudoku\x64\Debug\Sudoku.exe

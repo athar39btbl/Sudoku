@@ -1,0 +1,42 @@
+﻿  BaseSudokuData.cpp
+C:\Users\Futa Sakamoto\source\repos\Sudoku\Sudoku\EmptyPositionData.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  DetermineAnswerData.cpp
+C:\Users\Futa Sakamoto\source\repos\Sudoku\Sudoku\EmptyPositionData.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\Futa Sakamoto\source\repos\Sudoku\Sudoku\DetermineAnswerData.cpp(174,34): warning C4244: '引数': 'const double' から 'const _Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=UINT
+          ]
+C:\Users\Futa Sakamoto\source\repos\Sudoku\Sudoku\DetermineAnswerData.cpp(196,34): warning C4244: '引数': 'const double' から 'const _Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=UINT
+          ]
+C:\Users\Futa Sakamoto\source\repos\Sudoku\Sudoku\DetermineAnswerData.cpp(222,33): warning C4244: '引数': 'double' から 'const _Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=UINT
+          ]
+C:\Users\Futa Sakamoto\source\repos\Sudoku\Sudoku\DetermineAnswerData.cpp(256,34): warning C4244: '引数': 'const double' から 'const _Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=UINT
+          ]
+C:\Users\Futa Sakamoto\source\repos\Sudoku\Sudoku\DetermineAnswerData.cpp(273,34): warning C4244: '引数': 'const double' から 'const _Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=UINT
+          ]
+C:\Users\Futa Sakamoto\source\repos\Sudoku\Sudoku\DetermineAnswerData.cpp(296,33): warning C4244: '引数': 'double' から 'const _Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=UINT
+          ]
+  EmptyPositionData.cpp
+C:\Users\Futa Sakamoto\source\repos\Sudoku\Sudoku\EmptyPositionData.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  コード生成しています。
+  29 of 813 functions ( 3.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  Sudoku.vcxproj -> C:\Users\Futa Sakamoto\source\repos\Sudoku\x64\Release\Sudoku.exe
